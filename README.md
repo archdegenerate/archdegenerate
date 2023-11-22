@@ -2,7 +2,7 @@
 
 <h1>Hej! 👋</h1>
 
-My name is Tomáš (or Tomas for convenience). I am an aspiring software engineer undergraduate from Slovakia, currently studying at VIA University College in Denmark. I'm also actively looking for an intership!
+My name is Tomáš (or Tomas for convenience). I am an aspiring software engineer undergraduate from Slovakia, currently studying at VIA University College in Denmark. I'm also actively looking for an internship!
 
 <h2>My Current Tech Stack:</h2>
 
